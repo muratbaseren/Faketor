@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Kadir Murat Başeren</Authors>
+    <Company>Kadir Murat Başeren</Company>
+    <Description>Simple library for creating fake data. For .Net Runtime 4.0, 4.5, Core 2.0</Description>
+    <Copyright>Kadir Murat Başeren</Copyright>
+    <PackageLicenseUrl>https://github.com/muratbaseren/Faketor</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/muratbaseren/Faketor</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/muratbaseren/Faketor</RepositoryUrl>
+    <PackageIconUrl>https://github.com/muratbaseren/Faketor/blob/master/images/faketor-nuget-icon.png</PackageIconUrl>
+    <PackageTags>fakedata,testdata</PackageTags>
+  </PropertyGroup>
+
+</Project>
